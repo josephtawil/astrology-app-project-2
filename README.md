@@ -10,6 +10,7 @@
 
 A personalized astrology app created with the user in mind.
 
+https://astrology-app-astrologica.herokuapp.com/
 <table>
   <tr>
     <td align="center"><a href="https://haplescent.github.io/02-CSS-Bootstrap/index.html"><img src="https://avatars0.githubusercontent.com/u/13133436?s=460&u=e596f9c987157285eb55e835e6a23622515b1985&v=4" width="100px;" alt="John Merritt profile picutre"/><br /><sub><b>John Merritt</b></sub></a>
